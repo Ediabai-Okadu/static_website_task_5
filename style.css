@@ -154,10 +154,10 @@ footer ul li a {
 
 /* mobile */
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 426px) {
   .home-text {
     font-size: 10px;
-    top: 32%;
+    top: 30%;
   }
 
   h1 {
@@ -188,7 +188,7 @@ footer ul li a {
 }
 
 /* tablet */
-@media screen and (min-width: 426px) and (max-width: 850px) {
+@media screen and (min-width: 427px) and (max-width: 850px) {
   .home-text {
     font-size: 10px;
     top: 25%;
